@@ -17,3 +17,10 @@ A Python-based voice assistant that responds to voice commands for opening websi
    ```bash
    git clone https://github.com/your-username/voice-assistant.git
    cd voice-assistant
+## How It Works
+	•	Say “Jarvis” to activate the assistant.
+	•	Give commands like “Open Google” or “Play [song name]”.
+	•	The assistant will perform the action or notify if the command isn’t recognized.
+
+## License
+    -This project is licensed under the MIT License.
